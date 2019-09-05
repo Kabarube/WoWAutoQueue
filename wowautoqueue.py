@@ -15,6 +15,7 @@ Label2.pack(side="bottom")
 pathfield = tk.Entry(dlgbox, bd=3)
 pathfield.pack(side="left")
 
+
 dlgbox.mainloop()
 
 
