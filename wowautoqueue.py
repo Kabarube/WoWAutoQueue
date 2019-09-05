@@ -2,9 +2,9 @@ import tkinter as tk
 from pywinauto.application import Application
 import time
 
-#
+#   #   #   #   #   #   #   #   #   #
 # Function for initialising a windows
-#
+#   #   #   #   #   #   #   #   #   #
 dlgbox = tk.Tk(screenName="WoW Auto Queue")
 WidgetFrame = tk.Frame(dlgbox, bd=2)
 
