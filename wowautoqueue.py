@@ -31,4 +31,4 @@ def startLauncher(launcher_path, delay=5):
     # Clicking on button similar to "Play"
     wow_launcher['World of Warcraft'].Play.click()
 
-#startLauncher(launcher_path='C:\World of Warcraft\Launcher.exe', delay=0)
+startLauncher(launcher_path='C:\World of Warcraft\Launcher.exe', delay=0)
